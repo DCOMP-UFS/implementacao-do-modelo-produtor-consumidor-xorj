@@ -1,3 +1,11 @@
+/* 
+Integrantes  
+- Jorge Vinícius Lourenço Santos
+- Matheus de Farias Santos
+- Adailton Moura da Silva
+*/
+
+
 #include <pthread.h>
 #include <semaphore.h>
 #include <stdio.h>
